@@ -1,0 +1,4 @@
+{
+  "rest-client.enableSendRequestCodeLens": true,
+  "git.ignoreLimitWarning": true
+}
